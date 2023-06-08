@@ -195,6 +195,10 @@ h2 {
 	text-decoration: none;
 }
 
+.footer-donate a {
+	color: #0a0a23;
+}
+
 .col-3 a {
 	display: flex;
 	flex-flow: column;
