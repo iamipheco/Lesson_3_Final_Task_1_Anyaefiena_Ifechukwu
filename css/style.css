@@ -475,8 +475,8 @@ footer {
 	display: none;
 }
 
-.sidebar-2 p, .sidebar p {
-	display: none;
+.sidebar-2 p, 
+.sidebar p {
 	margin-bottom: 10px;
 }
 
