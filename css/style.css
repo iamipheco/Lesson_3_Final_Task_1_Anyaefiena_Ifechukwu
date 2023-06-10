@@ -500,6 +500,7 @@ footer {
 		display: inline;
 		padding: 8px 18px;
 		font-size: 18px;
+		letter-spacing: 0.3dvh;
 		color: #fff;
 		font-family: 'Roboto Mono', monospace;
 		margin-right: 20px;
@@ -556,6 +557,7 @@ footer {
 		display: flex;
 		flex-direction: column;
 		align-items: center;
+		color: ;
 	}
 
 	.banna-img-1 {

@@ -1,4 +1,5 @@
-## This repository contains the code for FreeCodeCamp Clone Page created with HTML and CSS.
+## This repository contains the code for FreeCodeCamp Clone webpage https://www.freecodecamp.org/news/frontend-development-project-create-a-blog-with-html-css/ using either crude CSS and HTML.
+
 - This webpage contains a responsive and interactive website layout using CSS media queries, grids and advanced layout techniques, and pseudo-classes and pseudo-elements.
 
 ## Files
