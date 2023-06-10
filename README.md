@@ -3,7 +3,7 @@
 - This webpage contains a responsive and interactive website layout using CSS media queries, grids and advanced layout techniques, and pseudo-classes and pseudo-elements.
 
 ## Files
-- index.html This is the main page of the FCC clone page. It contains information about the page.
+- index.html This is the main page of the FCC clone page. It contains information about the webpage.
 
 - css/ This directory contains a CSS file used for styling the website.
 
