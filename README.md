@@ -5,7 +5,7 @@
 ## Files
 - index.html This is the main page of the FCC clone webpage. It contains information about the webpage.
 
-- css/ This directory contains a CSS file used for styling the website.
+- css/ This directory contains a CSS file used for styling the webpage.
 
 - Images/ This directory contains images used on the website.
 
