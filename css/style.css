@@ -247,7 +247,6 @@ h2 {
 
 .banna-img2 img {
 	width: 100%;
-	max-width: 600px;
     height: auto;
     object-fit: cover;
 	margin-bottom: 15px;
@@ -453,7 +452,6 @@ footer {
 	gap: 15px;
 }
 
-
 .sidebar {
 	margin-top: 35px;
 	display:flex;
@@ -500,6 +498,7 @@ footer {
 		display: inline;
 		padding: 8px 18px;
 		font-size: 18px;
+		letter-spacing: 0.3dvh;
 		color: #fff;
 		font-family: 'Roboto Mono', monospace;
 		margin-right: 20px;
@@ -556,6 +555,7 @@ footer {
 		display: flex;
 		flex-direction: column;
 		align-items: center;
+
 	}
 
 	.banna-img-1 {
@@ -577,7 +577,6 @@ footer {
     	overflow-x: hidden;
 	}
 }
-
 
 @media screen and  (width >=800px) {
 	.sect-2-cont p.first-pg{
